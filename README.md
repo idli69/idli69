@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**idli69/idli69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# The Idli Dev
 
-Here are some ideas to get you started:
+**I build software, learn by shipping, and keep things simple.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/idli69) · [Projects](https://github.com/idli69?tab=repositories)
+
+</div>
+
+---
+
+### What I'm building
+
+- **P-BLOCK** — an Android accountability-based DNS blocker
+- **Svelte 5 Template** — a lightweight starter for Svelte + Tailwind
+- **PokeFind** — a small Svelte game built around PokeAPI
+- **Neovim configs** — minimal setups focused on a fast, quiet workflow
+
+### Stack
+
+**Svelte · JavaScript · Kotlin · HTML · CSS · Tailwind · Vite · Git**
+
+Currently learning more about **software engineering, backend development, and cybersecurity**.
+
+### Philosophy
+
+> Build it. Break it. Understand it. Ship it.
+
+<div align="center">
+
+*Still learning. Still building.*
+
+</div>
